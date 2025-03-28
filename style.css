@@ -12,11 +12,14 @@ h1,h2, h3, h4{
 .bg-hero {
 background-size: cover;
 background-position: center center;
-background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/bg-fitgym.jpg");
+background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/lits-opérations.jpg");
    }
    .bg-hero-mobile {
 background-size: cover;
 background-position: center center;
-background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/bg-fitgym-mobile.jpg");
+background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/lits-opérations.jpg");
 }
 
+.navbar{
+    padding: 1rem 0;
+}
